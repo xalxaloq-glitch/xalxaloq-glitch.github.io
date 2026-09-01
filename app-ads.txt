@@ -6,3 +6,5 @@ unity3d.com, 18968475369235, DIRECT, 62bf365bcae72847
 
 # ironSource Account
 ironsource.com, 677663, DIRECT, 5087126267f8e811
+
+yandex.ru, 19854943, DIRECT, 0d359b3f360c7047
