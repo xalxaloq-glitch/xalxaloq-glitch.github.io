@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screenshot Cleaner - Privacy Policy</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 32px 20px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+
+        h1 {
+            color: #512da8;
+        }
+
+        h2 {
+            margin-top: 32px;
+            color: #333;
+        }
+
+        .updated {
+            color: #666;
+            margin-bottom: 32px;
+        }
+
+        .box {
+            background-color: #f5f3ff;
+            border-radius: 12px;
+            padding: 18px;
+            margin: 20px 0;
+        }
+
+        hr {
+            margin: 48px 0;
+            border: 0;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Screenshot Cleaner - Privacy Policy</h1>
+
+<p class="updated">
+    Last updated: October 2, 2026
+</p>
+
+<div class="box">
+    <strong>Privacy summary:</strong>
+    Screenshot Cleaner processes screenshots locally on your device.
+    Your photos and screenshots are not uploaded to our servers.
+</div>
+
+<h2>1. About Screenshot Cleaner</h2>
+
+<p>
+    Screenshot Cleaner is an Android application designed to help users
+    find, review, select, and remove screenshots stored on their device.
+</p>
+
+<h2>2. Photo and Media Access</h2>
+
+<p>
+    Screenshot Cleaner may request permission to access images stored on
+    your device. This access is required for the application's core
+    functionality: locating screenshots, displaying them to the user,
+    calculating their storage usage, filtering older screenshots, and
+    allowing the user to select screenshots for removal.
+</p>
+
+<p>
+    Screenshot Cleaner only uses this access to provide these
+    device-cleaning and screenshot-management features.
+</p>
+
+<h2>3. Local Processing</h2>
+
+<p>
+    Screenshot analysis and management are performed locally on your
+    device.
+</p>
+
+<p>
+    Screenshot Cleaner does not upload your photos or screenshots to a
+    remote server or cloud service.
+</p>
+
+<h2>4. Deleting Screenshots</h2>
+
+<p>
+    Screenshot Cleaner does not automatically delete your screenshots.
+    The user chooses which screenshots to remove.
+</p>
+
+<p>
+    Where required by Android, the operating system displays a deletion
+    confirmation before the selected images are removed.
+</p>
+
+<h2>5. Personal Data</h2>
+
+<p>
+    Screenshot Cleaner does not require users to create an account or
+    sign in.
+</p>
+
+<p>
+    The application does not intentionally collect names, email
+    addresses, phone numbers, account credentials, or other personal
+    identification information.
+</p>
+
+<h2>6. Advertising and Analytics</h2>
+
+<p>
+    Screenshot Cleaner does not contain advertising SDKs and does not
+    use third-party advertising services.
+</p>
+
+<p>
+    The application does not use third-party analytics services to track
+    user activity.
+</p>
+
+<h2>7. Data Sharing</h2>
+
+<p>
+    Screenshot Cleaner does not sell or share users' photos,
+    screenshots, or personal information with third parties.
+</p>
+
+<h2>8. Data Storage</h2>
+
+<p>
+    Screenshot Cleaner does not maintain an external database containing
+    users' screenshots or personal information.
+</p>
+
+<p>
+    Images accessed by the application remain on the user's device unless
+    the user chooses to delete them.
+</p>
+
+<h2>9. Children's Privacy</h2>
+
+<p>
+    Screenshot Cleaner does not knowingly collect personal information
+    from children.
+</p>
+
+<h2>10. Changes to This Privacy Policy</h2>
+
+<p>
+    This Privacy Policy may be updated if the application's features or
+    privacy practices change. Any updated version will be published on
+    this page.
+</p>
+
+<h2>11. Contact</h2>
+
+<p>
+    If you have questions about this Privacy Policy, you can contact the
+    developer using the contact information provided on the application's
+    Google Play Store listing.
+</p>
+
+<hr>
+
+<h1>Screenshot Cleaner - Gizlilik Politikası</h1>
+
+<p class="updated">
+    Son güncelleme: 2 Ekim 2026
+</p>
+
+<div class="box">
+    <strong>Gizlilik özeti:</strong>
+    Screenshot Cleaner ekran görüntülerini cihazınız üzerinde yerel
+    olarak işler. Fotoğraflarınız ve ekran görüntüleriniz sunucularımıza
+    yüklenmez.
+</div>
+
+<h2>1. Screenshot Cleaner Hakkında</h2>
+
+<p>
+    Screenshot Cleaner, kullanıcıların cihazlarında bulunan ekran
+    görüntülerini bulmasına, incelemesine, seçmesine ve kaldırmasına
+    yardımcı olmak amacıyla geliştirilmiş bir Android uygulamasıdır.
+</p>
+
+<h2>2. Fotoğraf ve Medya Erişimi</h2>
+
+<p>
+    Screenshot Cleaner cihazınızda bulunan görüntülere erişim izni
+    isteyebilir. Bu erişim uygulamanın temel işlevleri olan ekran
+    görüntülerini bulmak, kullanıcıya göstermek, kullandıkları depolama
+    alanını hesaplamak, eski ekran görüntülerini filtrelemek ve
+    kullanıcının silmek istediği ekran görüntülerini seçebilmesini
+    sağlamak için gereklidir.
+</p>
+
+<p>
+    Screenshot Cleaner bu erişimi yalnızca ekran görüntüsü yönetimi ve
+    cihaz temizleme özelliklerini sağlamak amacıyla kullanır.
+</p>
+
+<h2>3. Cihaz Üzerinde İşleme</h2>
+
+<p>
+    Ekran görüntülerinin analizi ve yönetimi cihazınız üzerinde yerel
+    olarak gerçekleştirilir.
+</p>
+
+<p>
+    Screenshot Cleaner fotoğraflarınızı veya ekran görüntülerinizi uzak
+    bir sunucuya ya da bulut hizmetine yüklemez.
+</p>
+
+<h2>4. Ekran Görüntülerinin Silinmesi</h2>
+
+<p>
+    Screenshot Cleaner ekran görüntülerinizi otomatik olarak silmez.
+    Hangi ekran görüntülerinin kaldırılacağını kullanıcı seçer.
+</p>
+
+<p>
+    Android tarafından gerekli görüldüğü durumlarda, seçilen görüntüler
+    silinmeden önce işletim sistemi kullanıcıya silme onayı gösterir.
+</p>
+
+<h2>5. Kişisel Veriler</h2>
+
+<p>
+    Screenshot Cleaner kullanıcıların hesap oluşturmasını veya giriş
+    yapmasını gerektirmez.
+</p>
+
+<p>
+    Uygulama ad, e-posta adresi, telefon numarası, hesap bilgileri veya
+    diğer kişisel kimlik bilgilerini kasıtlı olarak toplamaz.
+</p>
+
+<h2>6. Reklam ve Analiz</h2>
+
+<p>
+    Screenshot Cleaner reklam SDK'sı içermez ve üçüncü taraf reklam
+    hizmetlerini kullanmaz.
+</p>
+
+<p>
+    Uygulama kullanıcı etkinliklerini takip etmek amacıyla üçüncü taraf
+    analiz hizmetleri kullanmaz.
+</p>
+
+<h2>7. Veri Paylaşımı</h2>
+
+<p>
+    Screenshot Cleaner kullanıcıların fotoğraflarını, ekran
+    görüntülerini veya kişisel bilgilerini üçüncü taraflara satmaz veya
+    paylaşmaz.
+</p>
+
+<h2>8. Veri Saklama</h2>
+
+<p>
+    Screenshot Cleaner kullanıcıların ekran görüntülerini veya kişisel
+    bilgilerini içeren harici bir veritabanı tutmaz.
+</p>
+
+<p>
+    Uygulama tarafından erişilen görüntüler, kullanıcı silmeyi seçmediği
+    sürece kullanıcının cihazında kalır.
+</p>
+
+<h2>9. Çocukların Gizliliği</h2>
+
+<p>
+    Screenshot Cleaner çocuklardan bilerek kişisel bilgi toplamaz.
+</p>
+
+<h2>10. Gizlilik Politikasındaki Değişiklikler</h2>
+
+<p>
+    Uygulamanın özellikleri veya gizlilik uygulamaları değişirse bu
+    Gizlilik Politikası güncellenebilir. Güncel sürüm bu sayfada
+    yayımlanacaktır.
+</p>
+
+<h2>11. İletişim</h2>
+
+<p>
+    Bu Gizlilik Politikası hakkında sorularınız varsa uygulamanın
+    Google Play Store sayfasında belirtilen geliştirici iletişim
+    bilgilerini kullanarak geliştiriciyle iletişime geçebilirsiniz.
+</p>
+
+</body>
+</html>
